@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**zinsos/zinsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an anti-cheat enthusiast passionate about cybersecurity and game security. I specialize in detecting and preventing exploits to keep games fair and fun!
 
-Here are some ideas to get you started:
+🔧 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Scripting: LuaU
+
+Web Development: HTML, CSS, JavaScript
+
+Security: Anti-cheat development, exploit prevention
+
+🚀 What I'm Working On
+
+I'm always improving my anti-exploit methods and working on various security-related projects. My focus is on keeping online spaces safe and fair.
+
+📫 Contact
+
+Feel free to reach out if you're interested in discussing security, anti-cheat development, or coding in general!
+
+Let's make gaming more secure! 🛡️
